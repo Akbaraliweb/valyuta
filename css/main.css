@@ -1,0 +1,46 @@
+body{
+    font-family: 'Fredoka One', cursive;
+    background-color: #00FF00;
+}
+
+.conteiner{
+    text-align: center;
+}
+
+h1{
+    color: #1242d9;
+    font-size: 50px;
+}
+
+.conteiner_input{
+    width: 200px;
+    height: 50px;
+    background-color: rgb(49, 217, 230);
+    border: 2px solid #00FF00;
+    font-size: 20px;
+    font-family: 'Fredoka One', 'cursive';
+    text-align: center;
+    margin-right: 30px;
+}
+
+button{
+    width: 200px;
+    height: 50px;
+    border: 2px solid #00FF00;
+    background-color: rgb(49, 217, 230);
+    font-family: 'Fredoka One', 'cursive';
+    font-size: 20px;
+}
+
+.conteiner_select{
+    width: 200px;
+    height: 50px;
+    border: 2px solid #00FF00;
+    background-color: rgb(49, 217, 230);
+    font-family: 'Fredoka One', 'cursive';
+    font-size: 20px;
+}
+
+.button-box{
+    margin-top: 40px;
+}
